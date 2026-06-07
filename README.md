@@ -9,3 +9,11 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
   <img width="1648" height="596" alt="z7909577781690_500ae6d0e75410ead3d5088511820f0b" src="https://github.com/user-attachments/assets/661c12c6-b215-4b70-bd91-35e4720674da" />
 </p>
 
+<p>Here's a picture of my day-1 labs, no configuration, just getting familiar with Cisco Packet Tracer, a stimulation software provided by cisco to test ur skill in cisco networking. Not so many choices of switches and routers and firewalls, just some very common options for u.</p>
+<p align="center">
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/507a713e-9c13-4676-8f66-685bff183668" />
+</p>
+<p>we have Catalyst 2960 switch, ASA 5505 firewall, cisco ISR 2911 router, that's all for this lab</p>
+
+
+
