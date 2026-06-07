@@ -4,5 +4,8 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
 <p align="center">
   <img width="1834" height="873" alt="image" src="https://github.com/user-attachments/assets/759da04a-009f-4747-aa50-3cc0ea4790a0" />
 </p>
-<p></p>
+<p>Here is another very famous ccna course on udemy. It has 87,985 previews and get 4.8 stars, has 316,557 students. All these numbers are crazy</p>
+<p align="center">
+  <img width="1648" height="596" alt="z7909577781690_500ae6d0e75410ead3d5088511820f0b" src="https://github.com/user-attachments/assets/661c12c6-b215-4b70-bd91-35e4720674da" />
+</p>
 
