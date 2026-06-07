@@ -15,5 +15,10 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
 </p>
 <p>we have Catalyst 2960 switch, ASA 5505 firewall, cisco ISR 2911 router, that's all for this lab</p>
 
+<p>Just for fun, tomorrow technology is 1.6TB per link, see how far everything will be changed...</p>
+<p align="center">
+  <img width="988" height="746" alt="image" src="https://github.com/user-attachments/assets/4c9fedef-ac39-483d-8391-802d73246c16" />  
+</p>
+
 
 
