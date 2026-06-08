@@ -20,5 +20,10 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
   <img width="988" height="746" alt="image" src="https://github.com/user-attachments/assets/4c9fedef-ac39-483d-8391-802d73246c16" />  
 </p>
 
+<p>Crazy speed, i hope oneday tech can reach these numbers</p>
+<p align="center">
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/683892e3-999c-467c-8d16-58e1f4ce4262" />
+</p>
+
 
 
