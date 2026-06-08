@@ -30,6 +30,12 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2b12c39f-a8b9-4884-9d1e-9ce89727225f" />  
 </p>
 
+<p>RJ-45 ports and SFP ports</p>
+<p align="center">
+  <img width="1911" height="894" alt="image" src="https://github.com/user-attachments/assets/9d33ecad-33ba-4ce9-8b88-2eff988218d9" />  
+</p>
+
+
 
 
 
