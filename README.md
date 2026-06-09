@@ -41,5 +41,11 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
 
 i need a thinner laptop
 
+<p>This is how OSI model works</p>
+<p align="center">
+  <img width="1861" height="953" alt="image" src="https://github.com/user-attachments/assets/7f778d23-e018-4be8-9e6b-0bf6172e5206" />  
+</p>
+
+
 
 
