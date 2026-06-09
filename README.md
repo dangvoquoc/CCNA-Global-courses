@@ -35,6 +35,9 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
   <img width="1911" height="894" alt="image" src="https://github.com/user-attachments/assets/9d33ecad-33ba-4ce9-8b88-2eff988218d9" />  
 </p>
 
+<p align="center">
+  <img width="1413" height="923" alt="image" src="https://github.com/user-attachments/assets/d9ec074e-5891-406f-ae6a-baee22bc0f49" />
+</p>
 
 
 
