@@ -45,6 +45,8 @@ i need a thinner laptop
 <p align="center">
   <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/06da540d-2062-417b-a6e8-ed74cdd48446" />
 </p>
+<p>doc sach ccna tieng viet phi time quá 🥑</p>
+<img width="969" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6fda28-d138-4e3b-9290-f69e8ae07542" />
 
 
 
