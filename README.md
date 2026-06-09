@@ -43,7 +43,7 @@ i need a thinner laptop
 
 <p>This is how OSI model works</p>
 <p align="center">
-  <img width="1861" height="953" alt="image" src="https://github.com/user-attachments/assets/7f778d23-e018-4be8-9e6b-0bf6172e5206" />  
+  <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/06da540d-2062-417b-a6e8-ed74cdd48446" />
 </p>
 
 
