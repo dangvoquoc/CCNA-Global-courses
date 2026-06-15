@@ -35,17 +35,16 @@ I've created this repo for record my ccna training on udemy courses, jeremy IT l
   <img width="1911" height="894" alt="image" src="https://github.com/user-attachments/assets/9d33ecad-33ba-4ce9-8b88-2eff988218d9" />  
 </p>
 
-<p align="center">
-  <img width="1413" height="923" alt="image" src="https://github.com/user-attachments/assets/d9ec074e-5891-406f-ae6a-baee22bc0f49" />
-</p>
 i need a thinner laptop
 <p>This is how OSI model works</p>
 <p align="center">
   <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/06da540d-2062-417b-a6e8-ed74cdd48446" />
 </p>
+
 <p>doc sach ccna tieng viet phi time quá 🥑</p>
 <img width="969" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6fda28-d138-4e3b-9290-f69e8ae07542" />
 <p>Job market</p>
+
 <img width="1018" height="695" alt="image" src="https://github.com/user-attachments/assets/10fd3359-9fb4-429f-b18c-3c598e2b5f01" />
 
 
