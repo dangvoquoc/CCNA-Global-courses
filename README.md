@@ -49,6 +49,7 @@ i need a thinner laptop
 <img width="969" height="467" alt="image" src="https://github.com/user-attachments/assets/1d6fda28-d138-4e3b-9290-f69e8ae07542" />
 <p>Job market</p>
 <img width="1018" height="695" alt="image" src="https://github.com/user-attachments/assets/10fd3359-9fb4-429f-b18c-3c598e2b5f01" />
+<img width="1530" height="816" alt="image" src="https://github.com/user-attachments/assets/f641478d-e14e-452d-885d-8d1dc7fd9f1b" />
 
 
 
